@@ -188,7 +188,7 @@ $color-secondary: #324392;
 $color-tertiary: #6f757b;
     
 .introPage {
-    background: url("/images/network7.jpg") no-repeat!important;
+    background: url("/images/connecto-reseaux-sociaux.jpg") no-repeat!important;
     background-size: cover!important;
     transparency: 0.6;
     z-index: 0;
